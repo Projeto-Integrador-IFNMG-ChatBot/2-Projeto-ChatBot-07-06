@@ -47,10 +47,10 @@ recuperar_top_k(pergunta, k): Função central que processa a pergunta, busca os
 Testes com PDFs: O código inclui exemplos de como testar o sistema com dois PDFs diferentes (PDF INSTITUICAO.pdf e PDF INSTITUCIONAL 2.pdf) e várias perguntas, demonstrando a funcionalidade de recuperação.
 
 📝 Como Executar o Código
-Faça o upload dos arquivos PDF para o Google Drive.
+-Faça o upload dos arquivos PDF para o Google Drive.
 
-No Google Colab, execute as células para instalar as bibliotecas necessárias e montar o Google Drive.
+-No Google Colab, execute as células para instalar as bibliotecas necessárias e montar o Google Drive.
 
-Aponte a variável PDF para o caminho do seu arquivo no Drive.
+-Aponte a variável PDF para o caminho do seu arquivo no Drive.
 
-Execute as células para extrair o texto, criar os chunks, gerar os embeddings e realizar os testes de similaridade.
+-Execute as células para extrair o texto, criar os chunks, gerar os embeddings e realizar os testes de similaridade.
